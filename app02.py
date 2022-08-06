@@ -1,13 +1,16 @@
 #!/data/data/com.termux/files/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from core.core import *
+import json
 import requests
+
+from core.core import *
 
 cookies = {
     'S': 'ar7cN5HQykuyTdkNdUZwng',
     'Dark': 'true',
     'p': 'uYxK6VfvBeTsw3E2',
+    'shsortby': '1',
 }
 
 headers = {
@@ -24,20 +27,12 @@ headers = {
     'TE': 'Trailers',
 }
 
-params = {
-    'r': '1659793802398',
-}
-
 data = {
     'c': '4H5U2pnf2kOy7-fO-5Pnbw',
-    'u': '1',
-    'LNT': '2',
-    'mic': '0',
-    'mac': '0',
-    'miw': '0',
-    'maw': '0',
-    'sortby': '0',
-    'pad': '0',
+    #  'u': '1',
+    'LNT': ['1', '3'],
+    'mac': '9000',
+    'sortby': '1',
     'count': '25',
 }
 
@@ -45,4 +40,16 @@ response = requests.post('https://nvspc.biz/api/dummy/getShowcase',
                          cookies=cookies,
                          headers=headers,
                          data=data)
-print(response.text)
+#  print(response.text)
+
+r = requests.post('https://nvspc.biz/api/dummy/getShowcase_fp',
+                  cookies=cookies,
+                  headers=headers,
+                  data=data)
+
+src = r.json()
+
+my_list = src['data']['Lots']
+
+with open("mef.json", "w", encoding="utf-8") as file:
+    json.dump(src, file, indent=3, ensure_ascii=False)

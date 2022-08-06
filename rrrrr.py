@@ -7,6 +7,9 @@ from rich import print
 
 reqUrl = "https://nvspc.biz/api/dummy/getShowcase?c=4H5U2pnf2kOy7-fO-5Pnbw"
 
+# Кореновск витрина эйфоретики
+r = f'{reqUrl}&u=1&LNT=2&mic=0&mac=0&miw=0&maw=0&sortby=0&pad=0&count=25'
+
 headersList = {
     "Accept": "*/*",
     "Cookie": "p=mPbapIVCWkIPz5Pw; S=ar7cN5HQykuyTdkNdUZwng; Dark=true",

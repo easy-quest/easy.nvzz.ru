@@ -1,0 +1,444 @@
+{
+   "ok": 1,
+   "data": {
+      "Lots": [
+         {
+            "LNID": "RIycy1aNLUaY-KR8X3aKLw",
+            "CID": "4H5U2pnf2kOy7-fO-5Pnbw",
+            "Ds": [
+               {
+                  "C": [
+                     {
+                        "W": 0.25,
+                        "C": 500.0,
+                        "CD": 0.0,
+                        "CDP": 0.0,
+                        "CD_MA": 0.0,
+                        "CDT": 0,
+                        "A": 0
+                     },
+                     {
+                        "W": 0.5,
+                        "C": 1100.0,
+                        "CD": 0.0,
+                        "CDP": 0.0,
+                        "CD_MA": 0.0,
+                        "CDT": 0,
+                        "A": 0
+                     }
+                  ],
+                  "id": "vB05jn_P30mbT4XNpUql6A",
+                  "N": "Атаманская"
+               },
+               {
+                  "C": [
+                     {
+                        "W": 0.25,
+                        "C": 500.0,
+                        "CD": 0.0,
+                        "CDP": 0.0,
+                        "CD_MA": 0.0,
+                        "CDT": 0,
+                        "A": 0
+                     }
+                  ],
+                  "id": "zQfLO21mTEag2idEsIAygw",
+                  "N": "Кисляковская"
+               },
+               {
+                  "C": [
+                     {
+                        "W": 0.25,
+                        "C": 700.0,
+                        "CD": 0.0,
+                        "CDP": 0.0,
+                        "CD_MA": 0.0,
+                        "CDT": 0,
+                        "A": 0
+                     }
+                  ],
+                  "id": "BWAh8DBJbUqT5vWRwJyO2g",
+                  "N": "Ирклиевская"
+               },
+               {
+                  "C": [
+                     {
+                        "W": 0.25,
+                        "C": 700.0,
+                        "CD": 0.0,
+                        "CDP": 0.0,
+                        "CD_MA": 0.0,
+                        "CDT": 0,
+                        "A": 0
+                     },
+                     {
+                        "W": 0.5,
+                        "C": 1300.0,
+                        "CD": 0.0,
+                        "CDP": 0.0,
+                        "CD_MA": 0.0,
+                        "CDT": 0,
+                        "A": 0
+                     }
+                  ],
+                  "id": "keKit3ymekql87rGb2-aPQ",
+                  "N": "Кущевская"
+               },
+               {
+                  "C": [
+                     {
+                        "W": 0.25,
+                        "C": 700.0,
+                        "CD": 0.0,
+                        "CDP": 0.0,
+                        "CD_MA": 0.0,
+                        "CDT": 0,
+                        "A": 0
+                     }
+                  ],
+                  "id": "Zyl_uvOBjkSGBSEhM_kraw",
+                  "N": "Павловская"
+               },
+               {
+                  "C": [
+                     {
+                        "W": 0.25,
+                        "C": 800.0,
+                        "CD": 0.0,
+                        "CDP": 0.0,
+                        "CD_MA": 0.0,
+                        "CDT": 0,
+                        "A": 0
+                     },
+                     {
+                        "W": 0.5,
+                        "C": 1300.0,
+                        "CD": 0.0,
+                        "CDP": 0.0,
+                        "CD_MA": 0.0,
+                        "CDT": 0,
+                        "A": 0
+                     }
+                  ],
+                  "id": "PI3UABpkbkmpknedh38KSA",
+                  "N": "Пластуновская"
+               },
+               {
+                  "C": [
+                     {
+                        "W": 0.25,
+                        "C": 800.0,
+                        "CD": 0.0,
+                        "CDP": 0.0,
+                        "CD_MA": 0.0,
+                        "CDT": 0,
+                        "A": 0
+                     },
+                     {
+                        "W": 0.5,
+                        "C": 1300.0,
+                        "CD": 0.0,
+                        "CDP": 0.0,
+                        "CD_MA": 0.0,
+                        "CDT": 0,
+                        "A": 0
+                     }
+                  ],
+                  "id": "VC5dR2BPwk6IjsKTeiq26g",
+                  "N": "Старолеушковская"
+               },
+               {
+                  "C": [
+                     {
+                        "W": 0.25,
+                        "C": 900.0,
+                        "CD": 0.0,
+                        "CDP": 0.0,
+                        "CD_MA": 0.0,
+                        "CDT": 0,
+                        "A": 0
+                     },
+                     {
+                        "W": 0.5,
+                        "C": 1400.0,
+                        "CD": 0.0,
+                        "CDP": 0.0,
+                        "CD_MA": 0.0,
+                        "CDT": 0,
+                        "A": 0
+                     }
+                  ],
+                  "id": "bI5SvnWrsEyP77LlcubWCA",
+                  "N": "Кореновск"
+               }
+            ],
+            "UID": "7SK"
+         },
+         {
+            "LNID": "Ew1_NVXns0au2BefgsZLoQ",
+            "CID": "4H5U2pnf2kOy7-fO-5Pnbw",
+            "Ds": [
+               {
+                  "C": [
+                     {
+                        "W": 1.0,
+                        "C": 2500.0,
+                        "CD": 0.0,
+                        "CDP": 0.0,
+                        "CD_MA": 0.0,
+                        "CDT": 0,
+                        "A": 0
+                     }
+                  ],
+                  "id": "HDNzONGENUa_JiFApkjcJg",
+                  "N": "город"
+               }
+            ],
+            "UID": "D"
+         },
+         {
+            "LNID": "F9YsDBkif02OWGl0mrzdjQ",
+            "CID": "4H5U2pnf2kOy7-fO-5Pnbw",
+            "Ds": [
+               {
+                  "C": [
+                     {
+                        "W": 0.5,
+                        "C": 1200.0,
+                        "CD": 0.0,
+                        "CDP": 0.0,
+                        "CD_MA": 0.0,
+                        "CDT": 0,
+                        "A": 0
+                     },
+                     {
+                        "W": 0.5,
+                        "C": 1500.0,
+                        "CD": 0.0,
+                        "CDP": 0.0,
+                        "CD_MA": 0.0,
+                        "CDT": 0,
+                        "A": 0
+                     }
+                  ],
+                  "id": "ZmsXzZiO4UeBKO7DivaDRQ",
+                  "N": "Город улицы подъем 1сек"
+               }
+            ],
+            "UID": "888"
+         },
+         {
+            "LNID": "gwIob7OkY0uBN9zn80r4Nw",
+            "CID": "4H5U2pnf2kOy7-fO-5Pnbw",
+            "Ds": [
+               {
+                  "C": [
+                     {
+                        "W": 1.0,
+                        "C": 2300.0,
+                        "CD": 0.0,
+                        "CDP": 0.0,
+                        "CD_MA": 0.0,
+                        "CDT": 0,
+                        "A": 0
+                     }
+                  ],
+                  "id": "cyWI86Tdp0CsfJILFHAGBg",
+                  "N": " 2 КМ в сторону Усть-Лабинска"
+               }
+            ],
+            "UID": "5B8G"
+         },
+         {
+            "LNID": "EYrbfBN0SUSGIewstUjdqg",
+            "CID": "4H5U2pnf2kOy7-fO-5Pnbw",
+            "Ds": [
+               {
+                  "C": [
+                     {
+                        "W": 3.0,
+                        "C": 5889.0,
+                        "CD": 0.0,
+                        "CDP": 0.0,
+                        "CD_MA": 0.0,
+                        "CDT": 0,
+                        "A": 0
+                     }
+                  ],
+                  "id": "",
+                  "N": ""
+               }
+            ],
+            "UID": "WW8"
+         },
+         {
+            "LNID": "Jh2dHkVXYECyIOQDIodO2Q",
+            "CID": "4H5U2pnf2kOy7-fO-5Pnbw",
+            "Ds": [
+               {
+                  "C": [
+                     {
+                        "W": 2.0,
+                        "C": 6000.0,
+                        "CD": 0.0,
+                        "CDP": 0.0,
+                        "CD_MA": 0.0,
+                        "CDT": 0,
+                        "A": 0
+                     },
+                     {
+                        "W": 3.0,
+                        "C": 8800.0,
+                        "CD": 0.0,
+                        "CDP": 0.0,
+                        "CD_MA": 0.0,
+                        "CDT": 0,
+                        "A": 0
+                     }
+                  ],
+                  "id": "OsJqUJBfeEq4hnz-mQsjKA",
+                  "N": "в городе(НЕ ЛЕС)"
+               }
+            ],
+            "UID": "5ZYH"
+         }
+      ],
+      "LN": [
+         {
+            "id": "RIycy1aNLUaY-KR8X3aKLw",
+            "UID": "7SK",
+            "Name": "Белые камни",
+            "IMGid": "",
+            "T": 18,
+            "sT": 0,
+            "xR": 99955.86
+         },
+         {
+            "id": "Ew1_NVXns0au2BefgsZLoQ",
+            "UID": "D",
+            "Name": "pvp Кристаллы",
+            "IMGid": "kMNaJ3TrA0OsKxxo7qYcXA",
+            "T": 18,
+            "sT": 0,
+            "xR": 97395.61
+         },
+         {
+            "id": "F9YsDBkif02OWGl0mrzdjQ",
+            "UID": "888",
+            "Name": "Скорость кристаллы  Серая мышь 2015",
+            "IMGid": "",
+            "T": 0,
+            "sT": 0,
+            "xR": 30377.17
+         },
+         {
+            "id": "gwIob7OkY0uBN9zn80r4Nw",
+            "UID": "5B8G",
+            "Name": "Мефедрон Мука(HQ)",
+            "IMGid": "",
+            "T": 19,
+            "sT": 0,
+            "xR": 21357.54
+         },
+         {
+            "id": "EYrbfBN0SUSGIewstUjdqg",
+            "UID": "WW8",
+            "Name": "Скорость кристалл А29",
+            "IMGid": "8uDmSo1vv0WevmUJ_F0FfA",
+            "T": 18,
+            "sT": 0,
+            "xR": 7877.53
+         },
+         {
+            "id": "Jh2dHkVXYECyIOQDIodO2Q",
+            "UID": "5ZYH",
+            "Name": "Мяу Кристаллы Игольчатые",
+            "IMGid": "",
+            "T": 19,
+            "sT": 0,
+            "xR": 3128.41
+         }
+      ],
+      "Users": [
+         {
+            "id": "D",
+            "nick": "Di",
+            "gst": 7760.62204563,
+            "isModer": 1,
+            "isBest": 1,
+            "css": 90.24,
+            "css90": 93.41,
+            "css30": 90.83,
+            "css7": 84.36,
+            "css3": 67.43
+         },
+         {
+            "id": "7SK",
+            "nick": "NFS-NVRS",
+            "gst": 6436.47134188,
+            "isModer": 1,
+            "isBest": 1,
+            "css": 90.7,
+            "css90": 94.46,
+            "css30": 91.49,
+            "css7": 80.69,
+            "css3": 69.13
+         },
+         {
+            "id": "888",
+            "nick": "Дом сбыта",
+            "gst": 1949.18171062,
+            "isModer": 0,
+            "isBest": 1,
+            "css": 92.72,
+            "css90": 96.18,
+            "css30": 93.11,
+            "css7": 83.54,
+            "css3": 74.59
+         },
+         {
+            "id": "WW8",
+            "nick": "Munich",
+            "gst": 0.0,
+            "isModer": 0,
+            "isBest": 0,
+            "css": 86.5,
+            "css90": 94.76,
+            "css30": 91.32,
+            "css7": 58.71,
+            "css3": 35.42
+         },
+         {
+            "id": "5B8G",
+            "nick": "BARAKUDA",
+            "gst": 2234.93739781,
+            "isModer": 0,
+            "isBest": 1,
+            "css": 95.42,
+            "css90": 96.88,
+            "css30": 96.51,
+            "css7": 90.78,
+            "css3": 84.56
+         },
+         {
+            "id": "5ZYH",
+            "nick": "Funny Goofy",
+            "gst": 1161.74700973,
+            "isModer": 0,
+            "isBest": 0,
+            "css": 91.71,
+            "css90": 95.99,
+            "css30": 92.41,
+            "css7": 80.87,
+            "css3": 67.12
+         }
+      ],
+      "Cities": [
+         {
+            "id": "4H5U2pnf2kOy7-fO-5Pnbw",
+            "N": " Кореновск"
+         }
+      ],
+      "bxr": 1424181.05
+   }
+}
