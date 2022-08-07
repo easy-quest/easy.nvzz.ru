@@ -1,8 +1,9 @@
 #!/data/data/com.termux/files/usr/bin/env python
 # -*- coding: utf-8 -*-
-
 from core.core import *
 import requests
+# Импорт модуля json Python
+import json
 
 cookies = {
     'S': 'ar7cN5HQykuyTdkNdUZwng',
@@ -24,25 +25,23 @@ headers = {
     'TE': 'Trailers',
 }
 
-params = {
-    'r': '1659793802398',
-}
-
 data = {
     'c': '4H5U2pnf2kOy7-fO-5Pnbw',
     'u': '1',
     'LNT': '2',
-    'mic': '0',
-    'mac': '0',
-    'miw': '0',
-    'maw': '0',
     'sortby': '0',
     'pad': '0',
     'count': '25',
 }
 
-response = requests.post('https://nvspc.biz/api/dummy/getShowcase',
-                         cookies=cookies,
-                         headers=headers,
-                         data=data)
-print(response.text)
+r = requests.post('https://nvspc.biz/api/dummy/getShowcase',
+                  cookies=cookies,
+                  headers=headers,
+                  data=data)
+
+# Вызовите функцию dumps() и передайте список Python
+json_str = json.dumps(r.json())
+
+print(type(r.json()))
+#  print(response.text)
+print(type(json_str))
